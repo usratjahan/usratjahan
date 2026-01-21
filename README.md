@@ -1,4 +1,4 @@
-## Hi I'm Usrat 
+## Hi I'm Usrat 🌈
 🏛️ Studying at: University of Liberal Arts Bangladesh (ULAB)
 
 🔭 Currently working on: Solving DSA problems and building project logic.
