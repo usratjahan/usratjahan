@@ -3,6 +3,7 @@
 
 🔭 Currently working on: Solving DSA problems and building project logic.
 
+💬 Ask me about: Java, C, and C++ ☕️👾
 
 <!--
 **usratjahan/usratjahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
