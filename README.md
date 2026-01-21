@@ -1,5 +1,7 @@
-## Hi there 👋 I'm Usrat Jahan
-
+## Hi I'm Usrat 
+🏛️ Studying at: University of Liberal Arts Bangladesh (ULAB)
+🔭 Currently working on: Solving DSA problems and building project logic.
+🌱 Currently learning: - DSA: Mastering efficiency through C++ and Java,web development
 <!--
 **usratjahan/usratjahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
